@@ -7,11 +7,6 @@ redirect_from:
   - /resume
 ---
 
-## CV
-{% include base_path %}
-
-[My Curriculum Vitae, updated in 2020/12/13](http://zzjun725.github.io/files/CV_1213.pdf)
-
 ## Education
 
 * **Shanghai Jiao Tong University**  
@@ -29,10 +24,5 @@ redirect_from:
 * Cyrus Tang Scholarship(twice), Cyrus Tang Foundation
 
 ## Research experience
-* Sep. 2019 - Present, team co-Leader, Design and Strategy Optimization of an Air Hockey Robot for Man-machine Battle
-
 * Dec. 2019 - Mar. 2020, Team Leader, Physically-based Simulation and Optimization of a two-DOF Chaotic Pendulum
 
-* Sep. 2018 - Apr. 2019, research assistant, Development of photoelectric 6-DOF rocker for robot teaching
-
-* Jul. 2018 - Sep. 2018, research assistant, Research and development of smart car slam with lidar and binocular vision
